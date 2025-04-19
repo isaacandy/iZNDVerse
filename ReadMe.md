@@ -1,4 +1,5 @@
 # iZNDVerse on OVR
+![iZNDVerse Logo](https://tse2.mm.bing.net/th?id=OIG1.cWRe9rgoWzpocrBfEUpj&pid=ImgGn)
 
 Welcome to **iZNDVerse on OVR**, your one-stop solution for building, setting up, and hosting your Virtual Land in the Metaverse. This repository consolidates all the necessary tools, shortcuts, links, and portable apps, including the OVR Builder, to help you create and manage your virtual experiences seamlessly.
 
@@ -19,7 +20,7 @@ Welcome to **iZNDVerse on OVR**, your one-stop solution for building, setting up
         -   [OVR Website](https://www.ovr.ai/) - Official OVR website.
         -   [OVR Builder Documentation](https://docs.ovr.ai/) - Documentation for the OVR Builder.
         -   [OVR Marketplace](https://www.ovr.ai/marketplace/) - Explore the OVR Marketplace.
-        -   [iZND Services Website](https://www.izndgroup.com/) - (Example) Your company website.
+        -   [iZND Services Website](http://homepod.iznd.xyz/) - (Example) Your company website.
         - [OVR Discord](https://discord.com/invite/ovr) - OVR Community Discord
     - **App Shortcuts**
         - [OVR Builder App](file://c:/Users/DrIsaacAndyPhD/OneDrive%20-%20iZND%20Services/iZNDVerse/Builder/OVRBuilder.exe) - (Example) Launch the OVR Builder application. *Note: This is a local file path, see important considerations below.*
@@ -35,6 +36,7 @@ Welcome to **iZNDVerse on OVR**, your one-stop solution for building, setting up
     -   Tools to manage and host events in the Metaverse.
 
 ## How to Use
+![iZNDVerse Image](https://tse2.mm.bing.net/th?id=OIG3..fbESosVkd0mgoOz.Blb&pid=ImgGn)
 
 1.  **Download the Repository**:
     Clone or download this repository to access all the resources.
