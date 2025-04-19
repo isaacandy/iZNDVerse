@@ -19,7 +19,7 @@ Welcome to **iZNDVerse on OVR**, your one-stop solution for building, setting up
         -   [OVR Website](https://www.ovr.ai/) - Official OVR website.
         -   [OVR Builder Documentation](https://docs.ovr.ai/) - Documentation for the OVR Builder.
         -   [OVR Marketplace](https://www.ovr.ai/marketplace/) - Explore the OVR Marketplace.
-        -   [iZND Services Website](https://www.iznd.com/) - (Example) Your company website.
+        -   [iZND Services Website](https://www.izndgroup.com/) - (Example) Your company website.
         - [OVR Discord](https://discord.com/invite/ovr) - OVR Community Discord
     - **App Shortcuts**
         - [OVR Builder App](file://c:/Users/DrIsaacAndyPhD/OneDrive%20-%20iZND%20Services/iZNDVerse/Builder/OVRBuilder.exe) - (Example) Launch the OVR Builder application. *Note: This is a local file path, see important considerations below.*
